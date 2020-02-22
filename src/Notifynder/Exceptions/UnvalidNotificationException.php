@@ -1,9 +1,9 @@
 <?php
 
-namespace Fenos\Notifynder\Exceptions;
+namespace Popouille\Notifynder\Exceptions;
 
 use Exception;
-use Fenos\Notifynder\Builder\Notification;
+use Popouille\Notifynder\Builder\Notification;
 
 /**
  * Class UnvalidNotificationException.
