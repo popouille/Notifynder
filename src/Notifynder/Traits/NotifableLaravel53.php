@@ -1,8 +1,8 @@
 <?php
 
-namespace Fenos\Notifynder\Traits;
+namespace Popouille\Notifynder\Traits;
 
-use Fenos\Notifynder\Models\Notification;
+use Popouille\Notifynder\Models\Notification;
 
 /**
  * Class Notifable.
