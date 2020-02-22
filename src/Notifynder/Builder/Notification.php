@@ -1,14 +1,14 @@
 <?php
 
-namespace Fenos\Notifynder\Builder;
+namespace Popouille\Notifynder\Builder;
 
 use ArrayAccess;
 use JsonSerializable;
 use Illuminate\Support\Arr;
 use Illuminate\Contracts\Support\Jsonable;
 use Illuminate\Contracts\Support\Arrayable;
-use Fenos\Notifynder\Parsers\NotificationParser;
-use Fenos\Notifynder\Models\Notification as ModelNotification;
+use Popouille\Notifynder\Parsers\NotificationParser;
+use Popouille\Notifynder\Models\Notification as ModelNotification;
 
 /**
  * Class Notification.
