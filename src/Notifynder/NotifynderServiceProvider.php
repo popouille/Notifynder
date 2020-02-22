@@ -1,18 +1,18 @@
 <?php
 
-namespace Fenos\Notifynder;
+namespace Popouille\Notifynder;
 
 use Illuminate\Support\ServiceProvider;
-use Fenos\Notifynder\Collections\Config;
-use Fenos\Notifynder\Senders\OnceSender;
-use Fenos\Notifynder\Senders\SingleSender;
-use Fenos\Notifynder\Managers\SenderManager;
-use Fenos\Notifynder\Senders\MultipleSender;
-use Fenos\Notifynder\Resolvers\ModelResolver;
-use Fenos\Notifynder\Contracts\ConfigContract;
-use Fenos\Notifynder\Managers\NotifynderManager;
-use Fenos\Notifynder\Contracts\SenderManagerContract;
-use Fenos\Notifynder\Contracts\NotifynderManagerContract;
+use Popouille\Notifynder\Collections\Config;
+use Popouille\Notifynder\Senders\OnceSender;
+use Popouille\Notifynder\Senders\SingleSender;
+use Popouille\Notifynder\Managers\SenderManager;
+use Popouille\Notifynder\Senders\MultipleSender;
+use Popouille\Notifynder\Resolvers\ModelResolver;
+use Popouille\Notifynder\Contracts\ConfigContract;
+use Popouille\Notifynder\Managers\NotifynderManager;
+use Popouille\Notifynder\Contracts\SenderManagerContract;
+use Popouille\Notifynder\Contracts\NotifynderManagerContract;
 
 /**
  * Class NotifynderServiceProvider.
