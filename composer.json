@@ -1,5 +1,5 @@
 {
-  "name": "popouille/notifynder",
+  "name": "popouille/notifications-bulk",
   "description": "Management system of internal notifications for Laravel 5.*",
   "keywords": ["notifications", "laravel"],
   "license": "MIT",
