@@ -1,6 +1,6 @@
 <?php
 
-namespace Fenos\Notifynder\Resolvers;
+namespace Popouille\Notifynder\Resolvers;
 
 use Illuminate\Support\Str;
 
