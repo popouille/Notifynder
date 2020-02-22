@@ -1,12 +1,12 @@
 <?php
 
-namespace Fenos\Notifynder\Helpers;
+namespace Popouille\Notifynder\Helpers;
 
 use DateTime;
 use Traversable;
 use Carbon\Carbon;
 use InvalidArgumentException;
-use Fenos\Notifynder\Models\Notification;
+use Popouille\Notifynder\Models\Notification;
 
 /**
  * Class TypeChecker.
