@@ -1,8 +1,8 @@
 <?php
 
-namespace Fenos\Notifynder\Traits;
+namespace Popouille\Notifynder\Traits;
 
-use Fenos\Notifynder\Helpers\TypeChecker;
+use Popouille\Notifynder\Helpers\TypeChecker;
 
 /**
  * Class NotifableBasic.
