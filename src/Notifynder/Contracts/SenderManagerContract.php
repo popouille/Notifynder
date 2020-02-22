@@ -1,6 +1,6 @@
 <?php
 
-namespace Fenos\Notifynder\Contracts;
+namespace Popouille\Notifynder\Contracts;
 
 use Closure;
 
