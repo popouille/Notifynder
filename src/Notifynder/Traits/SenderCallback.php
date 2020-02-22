@@ -1,6 +1,6 @@
 <?php
 
-namespace Fenos\Notifynder\Traits;
+namespace Popouille\Notifynder\Traits;
 
 trait SenderCallback
 {
