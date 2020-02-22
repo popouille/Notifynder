@@ -2,9 +2,9 @@
 
 namespace Fenos\Notifynder\Senders;
 
-use Fenos\Notifynder\Models\Notification;
-use Fenos\Notifynder\Contracts\SenderContract;
-use Fenos\Notifynder\Contracts\SenderManagerContract;
+use Popouille\Notifynder\Models\Notification;
+use Popouille\Notifynder\Contracts\SenderContract;
+use Popouille\Notifynder\Contracts\SenderManagerContract;
 
 /**
  * Class MultipleSender.
