@@ -1,13 +1,13 @@
 <?php
 
-namespace Fenos\Notifynder\Managers;
+namespace Popouille\Notifynder\Managers;
 
 use Closure;
 use BadMethodCallException;
 use Illuminate\Support\Str;
-use Fenos\Notifynder\Builder\Builder;
-use Fenos\Notifynder\Contracts\SenderManagerContract;
-use Fenos\Notifynder\Contracts\NotifynderManagerContract;
+use Popouille\Notifynder\Builder\Builder;
+use Popouille\Notifynder\Contracts\SenderManagerContract;
+use Popouille\Notifynder\Contracts\NotifynderManagerContract;
 
 /**
  * Class NotifynderManager.
