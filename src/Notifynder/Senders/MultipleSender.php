@@ -1,6 +1,6 @@
 <?php
 
-namespace Fenos\Notifynder\Senders;
+namespace Popouille\Notifynder\Senders;
 
 use Popouille\Notifynder\Models\Notification;
 use Popouille\Notifynder\Contracts\SenderContract;
