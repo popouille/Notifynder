@@ -1,11 +1,11 @@
 <?php
 
-namespace Fenos\Notifynder\Models;
+namespace Popouille\Notifynder\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Builder;
-use Fenos\Notifynder\Parsers\NotificationParser;
-use Fenos\Notifynder\Builder\Notification as BuilderNotification;
+use Popouille\Notifynder\Parsers\NotificationParser;
+use Popouille\Notifynder\Builder\Notification as BuilderNotification;
 
 /**
  * Class Notification.
