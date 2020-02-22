@@ -1,6 +1,6 @@
 <?php
 
-namespace Fenos\Notifynder\Models;
+namespace Popouille\Notifynder\Models;
 
 use Illuminate\Support\Str;
 use Illuminate\Database\Eloquent\Model;
