@@ -6,7 +6,7 @@
   "authors": [
     {
       "name": "Fabrizio Fenoglio",
-      "email": "fabri_feno@yahoo.it",
+      "email": "",
       "role": "Developer"
     },
     {
@@ -39,7 +39,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Fenos\\Notifynder\\": "src/Notifynder"
+      "Popouille\\Notifynder\\": "src/Notifynder"
     },
     "files": [
       "src/Notifynder/Helpers/helpers.php"
@@ -50,7 +50,7 @@
       "tests/NotifynderTestCase.php"
     ],
     "psr-4": {
-      "Fenos\\Tests\\": "tests/models"
+      "Popouille\\Tests\\": "tests/models"
     }
   },
   "prefer-stable": true
