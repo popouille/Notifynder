@@ -1,11 +1,11 @@
 <?php
 
-namespace Fenos\Notifynder\Parsers;
+namespace Popouille\Notifynder\Parsers;
 
-use Fenos\Notifynder\Models\NotificationCategory;
-use Fenos\Notifynder\Exceptions\ExtraParamsException;
+use Popouille\Notifynder\Models\NotificationCategory;
+use Popouille\Notifynder\Exceptions\ExtraParamsException;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
-use Fenos\Notifynder\Models\Notification as ModelNotification;
+use Popouille\Notifynder\Models\Notification as ModelNotification;
 
 /**
  * Class NotificationParser.
