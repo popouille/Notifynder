@@ -1,14 +1,14 @@
 <?php
 
-namespace Fenos\Notifynder\Builder;
+namespace Popouille\Notifynder\Builder;
 
 use Closure;
 use ArrayAccess;
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Model;
-use Fenos\Notifynder\Helpers\TypeChecker;
-use Fenos\Notifynder\Models\NotificationCategory;
-use Fenos\Notifynder\Exceptions\UnvalidNotificationException;
+use Popouille\Notifynder\Helpers\TypeChecker;
+use Popouille\Notifynder\Models\NotificationCategory;
+use Popouille\Notifynder\Exceptions\UnvalidNotificationException;
 
 /**
  * Class Builder.
