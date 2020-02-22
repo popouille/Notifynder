@@ -1,10 +1,10 @@
 <?php
 
-namespace Fenos\Notifynder\Collections;
+namespace Popouille\Notifynder\Collections;
 
 use Illuminate\Support\Arr;
 use InvalidArgumentException;
-use Fenos\Notifynder\Contracts\ConfigContract;
+use Popouille\Notifynder\Contracts\ConfigContract;
 
 /**
  * Class Config.
