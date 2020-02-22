@@ -1,13 +1,13 @@
 <?php
 
-namespace Fenos\Notifynder\Senders;
+namespace Popouille\Notifynder\Senders;
 
 use BadMethodCallException;
-use Fenos\Notifynder\Builder\Notification;
-use Fenos\Notifynder\Contracts\SenderContract;
-use Fenos\Notifynder\Contracts\SenderManagerContract;
+use Popouille\Notifynder\Builder\Notification;
+use Popouille\Notifynder\Contracts\SenderContract;
+use FPopouille\Notifynder\Contracts\SenderManagerContract;
 use Illuminate\Database\Eloquent\Builder as EloquentBuilder;
-use Fenos\Notifynder\Models\Notification as NotificationModel;
+use Popouille\Notifynder\Models\Notification as NotificationModel;
 
 /**
  * Class OnceSender.
