@@ -63,7 +63,7 @@ Fenos\Notifynder\NotifynderServiceProvider::class,
 **Aliases array:**
 
 ```
-'Notifynder' => Fenos\Notifynder\Facades\Notifynder::class,
+'Notifynder' => Popouille\Notifynder\Facades\Notifynder::class,
 ```
 
 
@@ -74,7 +74,7 @@ Fenos\Notifynder\NotifynderServiceProvider::class,
 Publish the migration as well as the configuration of notifynder with the following command:
 
 ```
-php artisan vendor:publish --provider="Fenos\Notifynder\NotifynderServiceProvider"
+php artisan vendor:publish --provider="Popouille\Notifynder\NotifynderServiceProvider"
 ```
 
 Run the migration
