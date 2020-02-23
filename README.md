@@ -34,7 +34,7 @@ Forked from fenos/Notifynder
 Add it on your `composer.json`
 
 ```
-"fenos/notifynder": "^6.0"
+"popouille/notifynder": "^6.0"
 ```
 
 and run 
