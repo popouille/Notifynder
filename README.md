@@ -1,4 +1,4 @@
-# Notifynder 4 - Laravel 5
+# Notifynder 6 - Laravel 6
 
 [![GitHub release](https://img.shields.io/github/release/fenos/Notifynder.svg?style=flat-square)](https://github.com/fenos/Notifynder/releases)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/fenos/Notifynder/master/LICENSE)
@@ -24,7 +24,7 @@ Notifynder is designed to manage notifications in a powerful and easy way. With 
 Compatible DBs: **MySQL** - **PostgreSQL** - **SQLite**
 
 Documentation: **[Notifynder Docu](http://notifynder.info)**
-
+Forked from fenos/Notifynder
 -----
 
 ## Installation
@@ -34,7 +34,7 @@ Documentation: **[Notifynder Docu](http://notifynder.info)**
 Add it on your `composer.json`
 
 ```
-"fenos/notifynder": "^4.0"
+"fenos/notifynder": "^6.0"
 ```
 
 and run 
@@ -46,7 +46,7 @@ composer update
 or run
 
 ```
-composer require fenos/notifynder
+composer require popouille/notifynder
 ```
 
 
